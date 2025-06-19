@@ -6,6 +6,3 @@ pandas==2.0.3
 langchain==0.0.350
 openai==0.28.1
 python-dotenv==1.0.0
-uuid
-tempfile
-typing
