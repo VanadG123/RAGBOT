@@ -1,0 +1,136 @@
+# Example Company Knowledge Base
+
+## Company Overview
+
+TechCorp Solutions is a leading software development company founded in 2015, specializing in AI-powered business solutions. We serve over 500 enterprise clients worldwide and have offices in New York, London, and Singapore.
+
+## Our Products
+
+### AI Platform Suite
+- **SmartAnalytics**: Advanced data analytics platform using machine learning
+- **AutoFlow**: Workflow automation tool for business processes  
+- **ChatBot Pro**: Enterprise-grade conversational AI solution
+- **DataSync**: Real-time data integration and synchronization tool
+
+### Pricing Plans
+- Starter Plan: $99/month - Up to 5 users, basic features
+- Professional Plan: $299/month - Up to 25 users, advanced analytics
+- Enterprise Plan: $999/month - Unlimited users, custom integrations
+- Custom Plan: Contact sales for large organizations
+
+## Policies and Procedures
+
+### Customer Support
+- Support hours: 24/7 for Enterprise customers, 9 AM - 6 PM EST for others
+- Response time: 2 hours for Enterprise, 24 hours for Professional, 48 hours for Starter
+- Contact: support@techcorp.com or call 1-800-TECHCORP
+
+### Return Policy
+- 30-day money-back guarantee for all plans
+- No setup fees or cancellation penalties
+- Refunds processed within 5-7 business days
+
+### Data Security
+- SOC 2 Type II certified
+- GDPR and CCPA compliant
+- Data encrypted at rest and in transit
+- Regular security audits and penetration testing
+
+## Technical Information
+
+### System Requirements
+- Minimum RAM: 8GB for basic usage, 16GB recommended for heavy workloads
+- Operating Systems: Windows 10+, macOS 10.15+, Linux (Ubuntu 18.04+)
+- Browser compatibility: Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+
+### API Information
+- REST API with JSON responses
+- Rate limiting: 1000 requests per hour for Professional, 5000 for Enterprise
+- Authentication: OAuth 2.0 and API keys supported
+- Documentation available at docs.techcorp.com/api
+
+### Integration Partners
+- Salesforce, HubSpot, Microsoft Office 365
+- Slack, Teams, Discord
+- AWS, Azure, Google Cloud Platform
+- Zapier, IFTTT for workflow automation
+
+## Human Resources
+
+### Benefits Package
+- Health insurance with 100% premium coverage
+- 401(k) with 6% company matching
+- Unlimited PTO policy
+- $2000 annual learning and development budget
+- Remote work flexibility
+
+### Office Locations
+- **New York HQ**: 123 Tech Street, New York, NY 10001
+- **London Office**: 45 Innovation Lane, London, UK EC1A 1BB  
+- **Singapore Office**: 78 Business Park Avenue, Singapore 179024
+
+### Employment Process
+1. Online application and screening
+2. Technical assessment (for technical roles)
+3. Video interview with hiring manager
+4. Final interview with team leads
+5. Reference checks and offer negotiation
+
+## Frequently Asked Questions
+
+### General Questions
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page or contact support.
+
+Q: Can I upgrade or downgrade my plan anytime?
+A: Yes, plan changes take effect at the next billing cycle.
+
+Q: Do you offer training for new users?
+A: Yes, we provide free onboarding sessions and have extensive documentation.
+
+### Technical Questions
+Q: What is the uptime guarantee?
+A: We guarantee 99.9% uptime with automatic failover systems.
+
+Q: How often do you backup data?
+A: Automated backups every 6 hours with 30-day retention.
+
+Q: Can I export my data?
+A: Yes, you can export data in CSV, JSON, or XML formats.
+
+### Billing Questions
+Q: When will I be charged?
+A: Billing occurs monthly on the anniversary of your signup date.
+
+Q: Do you offer discounts for non-profits?
+A: Yes, we offer 25% discount for qualified non-profit organizations.
+
+Q: Can I pay annually for a discount?
+A: Yes, annual payments receive 15% discount on all plans.
+
+## Contact Information
+
+- **Sales**: sales@techcorp.com | 1-800-TECH-SALES
+- **Support**: support@techcorp.com | 1-800-TECHCORP  
+- **Billing**: billing@techcorp.com | 1-800-TECH-BILL
+- **General**: info@techcorp.com
+- **Website**: www.techcorp.com
+- **Documentation**: docs.techcorp.com
+
+## Company Culture and Values
+
+### Our Mission
+To democratize AI technology and make intelligent automation accessible to businesses of all sizes.
+
+### Core Values
+1. **Innovation**: We continuously push the boundaries of what's possible
+2. **Integrity**: We operate with transparency and ethical standards
+3. **Collaboration**: We believe diverse teams create better solutions
+4. **Customer Success**: Our customers' success is our success
+5. **Continuous Learning**: We invest in our team's growth and development
+
+### Social Responsibility
+- Carbon-neutral operations by 2025
+- 10% of profits donated to STEM education programs
+- Pro-bono services for qualifying non-profits
+- Diversity and inclusion initiatives with measurable goals
