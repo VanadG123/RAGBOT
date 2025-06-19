@@ -1,6 +1,5 @@
 import os
 import streamlit as st
-import pandas as pd
 from PyPDF2 import PdfReader
 from sentence_transformers import SentenceTransformer
 import chromadb
@@ -91,7 +90,7 @@ class RAGChatbot:
             st.error(f"Error reading PDF: {str(e)}")
             return ""
 
-    def extract_text_from_csv(self, csv_file) -> str:
+    '''def extract_text_from_csv(self, csv_file) -> str:
         """Extract text from CSV using Pandas"""
         try:
             df = pd.read_csv(csv_file)
@@ -104,7 +103,7 @@ class RAGChatbot:
             return text
         except Exception as e:
             st.error(f"Error reading CSV: {str(e)}")
-            return ""
+            return "" '''
 
     def chunk_text(self, text: str, chunk_size: int = 512, chunk_overlap: int = 50) -> List[str]:
         """Split text into chunks using RecursiveCharacterTextSplitter"""
@@ -207,9 +206,9 @@ class RAGChatbot:
                     # Process PDF
                     with open(tmp_file_path, 'rb') as pdf_file:
                         text = self.extract_text_from_pdf(pdf_file)
-                elif file_type == "text/csv":
+                '''elif file_type == "text/csv":
                     # Process CSV
-                    text = self.extract_text_from_csv(tmp_file_path)
+                    text = self.extract_text_from_csv(tmp_file_path) '''
                 else:
                     st.warning(f"Unsupported file type: {file_type}")
                     continue
